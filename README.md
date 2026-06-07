@@ -189,11 +189,7 @@ This project demonstrates how Deep Learning can automate handwritten digit recog
 
 Aspiring AI/ML Engineer | Data Science & Artificial Intelligence Enthusiast
 
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-
-💻 GitHub: https://github.com/your-github-username
+📧 Email: jp3527928@gmail.com
 
 ---
 
